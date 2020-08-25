@@ -4,4 +4,5 @@ from django.shortcuts import render
 
 
 def scrap_movies_from_imdb(request):
+    pass
     
